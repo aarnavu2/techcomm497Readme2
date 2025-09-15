@@ -58,8 +58,14 @@ If the user clicks on create new habit, they get taken to this page where they c
 Once the user clicks view habits on the previous page, they can select the specific habits from the category they picked. 
 ![See Habit Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png)
 
-If they click on the friends page they get taken here.
+If they click on the friends page they get taken here to see their friends.
 ![Friends Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_friends.png)
+
+If they want to see their streak they can click on the streaks page
+![Streaks Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png)
+
+They can also update their streaks using our streak updating feature
+![Update Streaks Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png)
 
 
 
