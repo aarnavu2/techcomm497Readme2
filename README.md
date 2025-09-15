@@ -65,7 +65,7 @@ If they want to see their streak they can click on the streaks page
 ![Streaks Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png)
 
 They can also update their streaks using our streak updating feature
-![Update Streaks Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png)
+![Update Streaks Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png)
 
 
 
