@@ -49,8 +49,14 @@ HabitHero is a Flutter-based mobile app designed to help users create, track, an
 Fill in later
 
 ### Usage
-Fill in later
-![Cute Cat](https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png)
+This is the home page which allows the user to navigate to different portions of the website.
+![Home Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/homepage.png)
+
+This is the home page which allows the user to navigate to different portions of the website.
+![Home Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png)
+
+This is the home page which allows the user to navigate to different portions of the website.
+![Home Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png)
 
 
 
