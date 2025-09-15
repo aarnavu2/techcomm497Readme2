@@ -1,5 +1,4 @@
-#ReadMe for Habit Tracker App  
-
+# ReadMe for Habit Tracker App  
 
 ## Table of Contents  
 - [About the Project](#about-the-project)  
