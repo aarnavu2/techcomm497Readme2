@@ -52,11 +52,14 @@ Fill in later
 This is the home page which allows the user to navigate to different portions of the website.
 ![Home Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/homepage.png)
 
-This is the home page which allows the user to navigate to different portions of the website.
-![Home Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png)
+If the user clicks on create new habit, they get taken to this page where they can select the category of habit they are interested in. 
+![Create Habit Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png)
 
-This is the home page which allows the user to navigate to different portions of the website.
-![Home Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png)
+Once the user clicks view habits on the previous page, they can select the specific habits from the category they picked. 
+![See Habit Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png)
+
+If they click on the friends page they get taken here.
+![Friends Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_friends.png)
 
 
 
