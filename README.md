@@ -50,7 +50,7 @@ Fill in later
 
 ### Usage
 Fill in later
-![Cute Cat](https://dl.dropboxusercontent.com/scl/fi/5tui071vo03pjuj1lyntn/add_streak.png)
+![Cute Cat](https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png)
 
 
 
