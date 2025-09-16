@@ -5,7 +5,7 @@
 - [Quickstart Guide](#quickstart-guide)  
 - [Features](#features)  
 - [Architecture](#architecture)  
-- [Usage Examples](#usage-examples)  
+- [Usage Examples](#usage)  
 - [FAQ](#faq)  
 
 ---
@@ -39,16 +39,16 @@ HabitHero is a Flutter-based mobile app designed to help users create, track, an
     ```
 
 
-### Features
+## Features
 - **Home Page**
 - **Friends Page**
 - **Current Habits Page**
 - **Challenges Page**
 
-### Architecture
+## Architecture
 ![Architecture](https://github.com/aarnavu2/techcomm497Readme2/blob/main/Architecture%20Diagram.png)
 
-### Usage
+## Usage
 
 Adding a habit demo
 ![Usage1 Gif](https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66et6.gif)
@@ -76,7 +76,7 @@ They can also update their streaks using our streak updating feature
 
 
 
-### FAQ
+## FAQ
 **Q: Do I need an account to use Habit Tracker?**
 A: No, Habit Tracker relies on Flutters internal data structures to store data locally
 
