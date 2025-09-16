@@ -46,9 +46,13 @@ HabitHero is a Flutter-based mobile app designed to help users create, track, an
 - **Challenges Page**
 
 ### Architecture
-Fill in later
+![Architecture](https://github.com/aarnavu2/techcomm497Readme2/blob/main/Architecture%20Diagram.png)
 
 ### Usage
+
+![Usage1 Gif](https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66et6.gif)
+![Usage 2 Gif](https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66fa3.gif)
+
 This is the home page which allows the user to navigate to different portions of the website.
 ![Home Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/homepage.png)
 
