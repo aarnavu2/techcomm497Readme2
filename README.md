@@ -55,28 +55,28 @@ HabitHero is a Flutter-based mobile app designed to help users create, track, an
 ## Usage
 
 Adding a habit demo  
-<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66et6.gif" alt="Usage1 Gif" width="600" />
+<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/addHabitGif.gif" alt="Usage1 Gif" width="600" />
 
 Adding a streak to an already created habit  
-<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66fa3.gif" alt="Usage 2 Gif" width="600" />
+<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/addStreakGif.gif" alt="Usage 2 Gif" width="600" />
 
 This is the home page which allows the user to navigate to different portions of the website.  
-<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/homepage.png" alt="Home Page" width="300" />
+<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/homepage.png" alt="Home Page" width="600" />
 
 If the user clicks on create new habit, they get taken to this page where they can select the category of habit they are interested in.  
-<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png" alt="Create Habit Page" width="300" />
+<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png" alt="Create Habit Page" width="600" />
 
 Once the user clicks view habits on the previous page, they can select the specific habits from the category they picked.  
-<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png" alt="See Habit Page" width="300" />
+<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png" alt="See Habit Page" width="600" />
 
 If they click on the friends page they get taken here to see their friends.  
-<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_friends.png" alt="Friends Page" width="300" />
+<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_friends.png" alt="Friends Page" width="600" />
 
 If they want to see their streak they can click on the streaks page  
-<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png" alt="Streaks Page" width="300" />
+<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png" alt="Streaks Page" width="600" />
 
 They can also update their streaks using our streak updating feature  
-<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png" alt="Update Streaks Page" width="300" />
+<img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png" alt="Update Streaks Page" width="600" />
 
 ## FAQ
 **Q: Do I need an account to use Habit Tracker?**
