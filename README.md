@@ -51,6 +51,7 @@ HabitHero is a Flutter-based mobile app designed to help users create, track, an
 
 ## Architecture
 <img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/updatedArchitecture.png" alt="Architecture" width="600" />
+The architecture of this project is split into 3 major sections: The front end pages, the api layer, and the data storage layer. The storage layer stores each habit, its streak, and if it is in use or not. The API layer communicates with the storage layer to add, read and update a habit's streak. Then the front end provides an intuitive interface that connects with the API to allow users add, read, and update thier habits.
 
 ## Usage
 
