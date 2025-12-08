@@ -2,7 +2,7 @@
   <img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/Screenshot%202025-12-08%20092644.png" alt="Project Banner">
 </p>
 
-# ReadMe for Habit Tracker App  
+# ReadMe for HabitHero - Habit Tracker App  
 
 ## Table of Contents  
 - [About the Project](#about-the-project)  
