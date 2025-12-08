@@ -18,7 +18,7 @@
 HabitHero is a Flutter-based mobile app designed to help users create, track, and maintain healthy habits.  
 
 - **Audience:** Individuals between the ages of 18 and 30 who want to build better habits.  
-- **Purpose:** Staying consistent is challenging but the Habit Tracker incentivizes good habits through gamifying good habits.
+- **Purpose:** Staying consistent is challenging but HabitHero incentivizes good habits through gamifying good habits.
 
 ---
 
