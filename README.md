@@ -44,10 +44,9 @@ HabitHero is a Flutter-based mobile app designed to help users create, track, an
 
 
 ## Features
-- **Home Page**
-- **Friends Page**
-- **Current Habits Page**
-- **Challenges Page**
+- Seamless selection and removal of habits that one wants to engage in
+- Connect with friends to share progress, keep other accountable, and develop long streaks of continuing success.
+- Comeback daily for new challenges that will inspire one to expand the positive actions they are taking. 
 
 ## Architecture
 <img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/updatedArchitecture.png" alt="Architecture" width="600" />
@@ -91,3 +90,9 @@ A: Not yet—currently, all data lives locally. Future versions may integrate cl
 
 **Q: How do I add a streak**
 A: Go to the habits page, select new habit, and then go to current streaks and add 1 to your streak
+
+**Q: Can I delete a habit?**
+A: Yes, you can delete any existing habit by going to the create habit menu and clicking on an previously created habit
+
+**Q: Does the app send reminders or notifications?**
+A: Not currently, but reminder notifications are planned for a future update to help users stay consistent.
