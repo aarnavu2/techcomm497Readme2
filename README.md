@@ -50,33 +50,34 @@ HabitHero is a Flutter-based mobile app designed to help users create, track, an
 - **Challenges Page**
 
 ## Architecture
-![Architecture](https://github.com/aarnavu2/techcomm497Readme2/blob/main/Architecture%20Diagram.png)
+![Architecture]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/Architecture%20Diagram.png](https://github.com/aarnavu2/techcomm497Readme2/blob/main/Architecture%20Diagram.png) | width=300)
 
 ## Usage
 
 Adding a habit demo
-![Usage1 Gif](https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66et6.gif)
+![Usage1 Gif]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66et6.gif](https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66et6.gif) | width=600)
 
 Adding a streak to an already created habit
-![Usage 2 Gif](https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66fa3.gif)
+![Usage 2 Gif]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66fa3.gif](https://github.com/aarnavu2/techcomm497Readme2/blob/main/a66fa3.gif) | width=600)
 
 This is the home page which allows the user to navigate to different portions of the website.
-![Home Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/homepage.png)
+![Home Page]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/homepage.png](https://github.com/aarnavu2/techcomm497Readme2/blob/main/homepage.png) | width=300)
 
-If the user clicks on create new habit, they get taken to this page where they can select the category of habit they are interested in. 
-![Create Habit Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png)
+If the user clicks on create new habit, they get taken to this page where they can select the category of habit they are interested in.
+![Create Habit Page]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png](https://github.com/aarnavu2/techcomm497Readme2/blob/main/create_new_habit.png) | width=300)
 
-Once the user clicks view habits on the previous page, they can select the specific habits from the category they picked. 
-![See Habit Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png)
+Once the user clicks view habits on the previous page, they can select the specific habits from the category they picked.
+![See Habit Page]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png](https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png) | width=300)
 
 If they click on the friends page they get taken here to see their friends.
-![Friends Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_friends.png)
+![Friends Page]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_friends.png](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_friends.png) | width=300)
 
 If they want to see their streak they can click on the streaks page
-![Streaks Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png)
+![Streaks Page]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png](https://github.com/aarnavu2/techcomm497Readme2/blob/main/view_streaks.png) | width=300)
 
 They can also update their streaks using our streak updating feature
-![Update Streaks Page](https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png)
+![Update Streaks Page]([https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png](https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png) | width=300)
+
 
 
 
