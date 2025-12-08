@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png" alt="Project Banner">
+</p>
+
 # ReadMe for Habit Tracker App  
 
 ## Table of Contents  
