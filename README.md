@@ -81,14 +81,14 @@ They can also update their streaks using our streak updating feature
 <img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/add_streak.png" alt="Update Streaks Page" width="600" />
 
 ## FAQ
-**Q: Do I need an account to use Habit Tracker?**  
+**Q: Do I need an account to use HabitHero?**  
 A: No, Habit Tracker relies on Flutters internal data structures to store data locally
 
 **Q: Can I reset a habit’s streak?**  
 A: Yes, streaks can be reset from the Current Streaks page.
 
 **Q: Is there support for syncing across devices?**  
-A: Not yet—currently, all data lives locally. Future versions may integrate cloud storage.
+A: Not yet, currently all data lives locally. Future versions may integrate cloud storage.
 
 **Q: How do I add a streak**  
 A: Go to the habits page, select new habit, and then go to current streaks and add 1 to your streak
