@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/select_habit.png" alt="Project Banner">
+  <img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/Screenshot%202025-12-08%20092644.png" alt="Project Banner">
 </p>
 
 # ReadMe for Habit Tracker App  
