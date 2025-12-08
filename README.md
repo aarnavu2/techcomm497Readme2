@@ -24,6 +24,8 @@ HabitHero is a Flutter-based mobile app designed to help users create, track, an
 
 ## 🚀 Quickstart Guide  
 
+Requires Flutter 3.38
+
 ### Installation  
 1. Clone the repo:  
 
