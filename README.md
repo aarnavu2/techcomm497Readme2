@@ -6,7 +6,7 @@
 
 ## Table of Contents  
 - [About the Project](#about-the-project)  
-- [Quickstart Guide](#quickstart-guide)  
+- [Quickstart Guide](#%F0%9F%9A%80-quickstart-guide)  
 - [Features](#features)  
 - [Architecture](#architecture)  
 - [Usage Examples](#usage)  
