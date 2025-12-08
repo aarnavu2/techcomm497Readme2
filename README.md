@@ -47,8 +47,8 @@ Requires Flutter 3.38
 
 ## Features
 - Seamless selection and removal of habits that one wants to engage in
-- Connect with friends to share progress, keep other accountable, and develop long streaks of continuing success.
-- Comeback daily for new challenges that will inspire one to expand the positive actions they are taking. 
+- Connect with friends to share progress, keep oneself accountable, and develop long streaks of continuing success.
+- Come back daily for new challenges that will inspire one to expand the positive actions they are taking. 
 
 ## Architecture
 <img src="https://github.com/aarnavu2/techcomm497Readme2/blob/main/updatedArchitecture.png" alt="Architecture" width="600" />
