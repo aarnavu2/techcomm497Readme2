@@ -82,7 +82,7 @@ They can also update their streaks using our streak updating feature
 
 ## FAQ
 **Q: Do I need an account to use HabitHero?**  
-A: No, Habit Tracker relies on Flutters internal data structures to store data locally
+A: No, Habit Tracker relies on Flutter's internal data structures to store data locally
 
 **Q: Can I reset a habit’s streak?**  
 A: Yes, streaks can be reset from the Current Streaks page.
@@ -94,7 +94,7 @@ A: Not yet, currently all data lives locally. Future versions may integrate clou
 A: Go to the habits page, select new habit, and then go to current streaks and add 1 to your streak
 
 **Q: Can I delete a habit?**  
-A: Yes, you can delete any existing habit by going to the create habit menu and clicking on an previously created habit
+A: Yes, you can delete any existing habit by going to the create habit menu and clicking on any previously created habit
 
 **Q: Does the app send reminders or notifications?**  
 A: Not currently, but reminder notifications are planned for a future update to help users stay consistent.
